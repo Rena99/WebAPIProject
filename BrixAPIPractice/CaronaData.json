@@ -1,0 +1,55 @@
+{
+  "Patients": [
+    {
+      "ID": 333333333,
+      "Paths": [
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Jerusalem",
+          "Location": "Sanhedria"
+        },
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Jerusalem",
+          "Location": "Sanhedria"
+        }
+      ]
+    },
+    {
+      "ID": 111111111,
+      "Paths": [
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Jerusalem",
+          "Location": "Har Nof"
+        },
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Jerusalem",
+          "Location": "Ramot"
+        }
+      ]
+    },
+    {
+      "ID": 222222222,
+      "Paths": [
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Jerusalem",
+          "Location": "Sanhedria"
+        },
+        {
+          "StartDate": "2020-09-13T00:00:00",
+          "EndDate": "2019-03-12T00:00:00",
+          "City": "Bnei Brak",
+          "Location": "Park"
+        }
+      ]
+    }
+  ]
+}
